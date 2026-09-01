@@ -1,0 +1,18 @@
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> java Convertor
+Enter the code
+1: Currency
+2: Distance
+3: Time
+1
+Enter the Currency code
+1: Euro
+2: Dollar
+3: Yen
+2
+Enter amount in Rupees
+1000
+Dollar : 15.152
+Enter amount in Dollar
+5
+Rupees : 330
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> 
