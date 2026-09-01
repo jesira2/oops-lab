@@ -1,0 +1,16 @@
+Enter Consumer number = 235
+
+         Enter Consumer name = jesira
+
+         Enter the type of connection = domestic
+
+         Enter pre_month reading = 150
+
+         Enter current_month reading = 200
+
+         Customer name = jesira
+
+         Total units = 50.0
+
+         Total bill = Rs 50.0
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> 
