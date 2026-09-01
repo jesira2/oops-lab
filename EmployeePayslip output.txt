@@ -1,0 +1,32 @@
+Enter Name of Employee:
+jesira
+Enter ID of Employee:
+235 
+Enter Address of Employee:
+41,seoul
+Enter Mail ID of Employee:
+jes235@gmail.com
+Enter Mobile Number of Employee:
+4567890321
+Enter the Basic Pay:
+50000
+
+Enter the Designation:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Exit
+1
+
+***** PAYSLIP *****
+Designation: Programmer
+Employee Name: jesira
+Employee ID: 235
+Address: 41,seoul
+Mail ID: jes235@gmail.com
+Mobile Number: 4567890321
+Basic Pay = 50000.0
+Gross Salary = 103500.0
+Net Salary = 97450.0
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> 
