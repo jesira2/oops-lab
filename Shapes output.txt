@@ -1,0 +1,9 @@
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> java Shapes
+Enter values :
+23
+5
+Area of Rectangle is 115.0
+Area of Triangle is 57.5
+Area of Circle is 1662.5714
+PS C:\Users\jesi2\OneDrive\Desktop\oops lab> 
+
