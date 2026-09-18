@@ -1,0 +1,15 @@
+Main Thread and Generated Number is 88
+New Thread 88 is EVEN and Square of 88 is: 7744
+ 
+Main Thread and Generated Number is 46
+New Thread 46 is EVEN and Square of 46 is: 2116
+ 
+Main Thread and Generated Number is 8
+New Thread 8 is EVEN and Square of 8 is: 64
+ 
+Main Thread and Generated Number is 55
+New Thread 55 is ODD and Cube of 55 is: 166375
+ 
+Main Thread and Generated Number is 32
+New Thread 32 is EVEN and Square of 32 is: 1024
+ 
