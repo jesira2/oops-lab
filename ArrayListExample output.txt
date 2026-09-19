@@ -1,0 +1,19 @@
+Currently the array list obj1 has following elements: [Ajeet, Harry, Chaitanya, Steve, Anuj]
+
+ArrayList obj1 after add All: [Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Bob, Raj]
+
+ArrayList obj1 after add element at the given index: [Rahul, Justin, Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Bob, Raj]
+
+Enter the Search element:
+A
+
+ArrayList obj1 contains the string A: false
+
+Current array list of obj1 after removing elements: [Rahul, Justin, Ajeet, Steve, Anuj, Babu, Kamal, Bob, Raj]
+
+Current array list of obj1 after removing element through index: [Rahul, Ajeet, Steve, Anuj, Babu, Kamal, Bob, Raj]
+
+Enter the letter to display all the strings starting with given letter:
+B
+
+ArrayList obj1 contains all the strings starting with given B: [Babu, Bob]
